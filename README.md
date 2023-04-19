@@ -3,6 +3,7 @@ This is a simple shopping application
 We can add/remove items, see each item's details, 
 chose delivery method(stander and nextday), add tax to special states
 ...
+
 This project has very nice code test resulet.
 We achieve 100% path coverage and also use pit tests to make our test more efficiency!
 
